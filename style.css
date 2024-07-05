@@ -85,24 +85,3 @@ p {
 h6 {
     font-size: 14px;
 }
-
-.home-sci a {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 40px;
-    height: 40px;
-    background: transparent;
-    border: 2px solid rgb(82, 156, 160);
-    border-radius: 50%;
-    font-size: 20px;
-    color: rgb(82, 156, 160);
-    text-decoration: none;
-    transition: .5s ease;
-    margin: 30px 15px 30px 0;
-}
-
-.home-sci a:hover {
-    color: #fff;
-    background-color: #0cb2f9;
-}
